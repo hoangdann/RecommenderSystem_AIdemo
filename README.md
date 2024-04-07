@@ -12,4 +12,4 @@ main: application processing
 
 tuner: hyperparameter tuner
 
-evaluation: evalute the algorithm
+evaluation: evaluate the algorithm
